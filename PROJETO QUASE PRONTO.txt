@@ -1,0 +1,380 @@
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="/css/estilo.css">
+  <title>Document</title>
+</head>
+
+<body>
+  <!--Cabeçalho-->
+
+
+  <nav>
+    <div>
+
+      <h1>Portal News </h1>
+    </div>
+    <button>&#9776;</button>
+  </nav>
+
+  <ul>
+    <li>
+      <p>CAPA</p>
+    </li>
+  </ul>
+
+  <ul>
+    <li>
+      <p> BRASIL </p>
+    </li>
+  </ul>
+
+  <ul>
+    <li>
+      <p> MUNDO</p>
+    </li>
+
+  </ul>
+
+  <ul>
+    <li>
+      <p> MÍDIA E ARTE</p>
+    </li>
+  </ul>
+
+
+
+  <input type="text" placeholder="      busca">
+
+
+
+
+
+
+
+  <main>
+
+    <!--Histórias de superação -->
+
+    <img src="/imagens/fernando_fernandes 2 .JPG" alt="Fernando Fernandes No Limite ">
+
+    <p> <strong> Fernando Fernandes fala de paralimpíadas, superação, torcida e… casamento!</strong></p>
+    <article>
+      <p>Fernando Fernandes detém os títulos de campeão mundial e bicampeão sul-americano de canoagem paraolímpica. Antes de ser atleta, atuou como modelo e participou da segunda edição do Big Brother Brasil, da Globo.
+        Em julho de 2009, Fernando sofreu um acidente de carro, fraturando a coluna, o que o deixou sem os movimentos das pernas.</p>
+
+      <p>No ano seguinte, com sua superação incrível, se consagrou campeão mundial de paracanoagem, na Polônia. Ele também criou o Instituto Fernando Fernandes, que incentiva pessoas com ou sem deficiência a terem motivação para reconstruírem suas vidas.</p><a href="https://www.ofuxico.com.br/entrevista/fernando-fernandes-fala-de-paralimpiadas-superacao-torcida-e-casamento/">Saiba mais</a>
+    </article>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="/css/estilo.css">
+  <title>Document</title>
+</head>
+
+<body>
+  <!--Cabeçalho-->
+
+
+  <nav>
+    <div>
+
+      <h1>Portal News </h1>
+    </div>
+    <button>&#9776;</button>
+  </nav>
+
+  <ul>
+    <li>
+      <p>CAPA</p>
+    </li>
+  </ul>
+
+  <ul>
+    <li>
+      <p> BRASIL </p>
+    </li>
+  </ul>
+
+  <ul>
+    <li>
+      <p> MUNDO</p>
+    </li>
+
+  </ul>
+
+  <ul>
+    <li>
+      <p> MÍDIA E ENTRETERIMENTO</p>
+    </li>
+  </ul>
+
+
+
+  <input type="text" placeholder="      busca">
+
+
+
+
+
+
+
+  <main>
+
+    <!--Histórias de superação -->
+
+    <img src="/imagens/fernando_fernandes 2 .JPG" alt="Fernando Fernandes No Limite ">
+
+    <p> <strong> Fernando Fernandes fala de paralimpíadas, superação, torcida e… casamento!</strong></p>
+    <article>
+      <p>Fernando Fernandes detém os títulos de campeão mundial e bicampeão sul-americano de canoagem paraolímpica. Antes de ser atleta, atuou como modelo e participou da segunda edição do Big Brother Brasil, da Globo.
+        Em julho de 2009, Fernando sofreu um acidente de carro, fraturando a coluna, o que o deixou sem os movimentos das pernas.</p>
+
+      <p>No ano seguinte, com sua superação incrível, se consagrou campeão mundial de paracanoagem, na Polônia. Ele também criou o Instituto Fernando Fernandes, que incentiva pessoas com ou sem deficiência a terem motivação para reconstruírem suas vidas.</p><a href="https://www.ofuxico.com.br/entrevista/fernando-fernandes-fala-de-paralimpiadas-superacao-torcida-e-casamento/">Saiba mais</a>
+    </article>
+
+
+
+
+    <div class="alineprado"></div>
+    <iframe width="500" height="350" src="https://www.youtube.com/embed/kNjdWXGtUOM?/autoplay=1&mute=1&controls=0" title="DA FAVELA À TV - A HISTÓRIA MAIS IMPACTANTE  QUE VOCÊ VERÁ HOJE - ACHISMOS #125" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+    <p><strong>"DA FAVELA À TV - A HISTÓRIA MAIS IMPACTANTE QUE VOCÊ VERÁ HOJE - ACHISMOS #125"</strong>
+    </p>
+
+    <article>
+      <p> Alinne Prado (@alinnepradooficial) é jornalista e apresentadora de TV. Nascida na favela, mais precisamente no Morro do Dendê, no Rio de Janeiro, conviveu desde cedo com a violência e com a opressão que assolam os marginalizados da sociedade.Foi repórter policial, teve passagem pela Rede Globo, Record e hoje está na RedeTV.Sua vida é cheia de lutas, perseverança e de muitas conquistas. Alinne é uma sobrevivente.
+        E hoje ela conta a sua incrível história, nesse que é um dos Achismos mais esperados de todos os tempos.
+    </article>
+    </p>
+
+
+
+    <img src="/imagens/modelo trans negra.JPG" alt="Mulher trans pcd">
+
+    <p>
+      <strong>Modelo trans, negra e PCD desfila para a MOSCHINO é a nova queridinha do mundo fashion</strong>
+    </p>
+    <p>
+    <article> Com o objetivo de diversificar e levantar a bandeira da representatividade, muitas marcas e agências de modelos têm investido em profissionais de todas as etnias, tamanhos e condições físicas. Afinal, o mundo é plural e composto por diferentes grupos de pessoas, cada um com a sua singularidade, certo?
+
+      Um bom exemplo dessa onda positiva e inovadora no mundo da moda é a modelo Aaron Rose Philip, a nova queridinha dos fashionistas. Mulher trans e PCD (Pessoa com Deficiência), ela participou recentemente de um desfile da MOSCHINO e já mostrou que veio para ficar. </article><a href="https://www.awebic.com/modelo-trans-negra-e-pcd-desfila-para-a-moschino-e-a-nova-queridinha-do-mundo-fashion/">Saiba mais </a></p>
+
+    <img src="/imagens/emawatson.JPG" alt="Ema Waston Onu Mulher He for She ">
+
+    <p><strong>“A mulher deve ser frágil”</strong></p>
+    <p>
+    <article>
+      Emma Watson deixou de ser a bruxinha do mundo de Harry Potter há algum tempo. Em 2014, ela foi nomeada embaixadora da boa vontade na ONU Mulheres. A atriz também lançou uma campanha chamada HeForShe, que incentiva os homens a intervirem pela igualdade de gênero. Watson chamou o feminismo de “a convicção de que homens e mulheres deveriam ter os mesmos direitos e oportunidades” e declarou que se deve acabar com a reputação de ser um movimento de mulheres que odeiam homens.</article>
+    </p><a href="http://www.onumulheres.org.br/elesporelas/">Saiba mais </a>
+
+
+
+    <title><strong>Arte</strong></title>
+
+
+
+    <h2>Filmes que quebram estereótipos sobre as mulheres</h2>
+
+    <h3>Driblando o Destino (2003)</h3>
+    <img src="/imagens/filme_driblando o destino_poster.jpg" withd="200px" alt="Driblando o destino">
+    <p>Sinopse: O sonho de Jesminder Bhamra (Parminder Nagra) é seguir o caminho de seu ídolo David Beckham e se tornar uma jogadora profissional de futebol. Entretanto ela enfrenta problemas em sua família, que deseja que ela siga os costumes indianos tradicionais, assim como sua irmã mais velha, Pinky (Archie Panjabi). O confronto entre as partes chega ao ápice quando Jesminder é obrigada a escolher entre a tradição de seu povo e seu grande sonho. <a href="https://www.adorocinema.com/filmes/filme-43170/" target="_blank"></a>. E você pode assistir o trailer <a href="https://www.youtube.com/watch?v=ve9RY7IIBvg" target="_blank">aqui</a>.</p>
+    <p>Tendo no elenco nomes como Archie Panjabi, Keira Knightley e Johnathan Rhys-Meyers, o filme foi indicado ao Globo de Ouro de "Melhor Filme - Comédia ou Musical" e ao BAFTA de "Melhor Filme Britânico". O filme divertido e interessante em que as mulheres tomam as rédeas e demonstram sua grande habilidade em um mundo que não é exclusivo dos homens.</p>
+
+    Você pode assistir esse filme <a href="https://assistirseries.gratis/ver/filme/driblando-o-destino/online" target="_blank">clicando aqui</a>.
+
+    <h3>Estrelas além do tempo (2016)</h3>
+    <img src="/imagens/Filme_estrelas-além-do-tempo.png" withd="200px" alt="Estrelas além do tempo">
+    <p>Estrelas Além do Tempo conta a história de Katherine Johnson, Mary Jackson e Dorothy Vaughan, três brilhantes mulheres afroamericanas, matemáticas e engenheiras que conquistaram a admiração e o respeito da equipe da NASA, em que as questões de raça e gênero eram uma enorme barreira. As três foram pioneiras em suas áreas e realizaram cálculos matemáticos essenciais para o sucesso de várias missões espaciais.</p> Você pode assistir o trailer do filme <a href="https://www.youtube.com/watch?v=wx3PVtrU-Os" target="_blank">clicando aqui</a>.</p>
+    <p>Tendo nomes como Taraji P. Henson, Octavia Spencer e Janelle Monae como as principais personagens, o filme foi indicado ao Oscar de "Meljor Filme", "Melhor Atriz" Octavia Spencer e "Roteiro Adaptado".</p>
+
+
+  </main>
+
+
+</body>
+
+<!--Rodapé-->
+<footer>
+
+  <img src="/imagens/facebook icon icon.png" alt="facebook">
+
+  <img src="/imagens/twitter icon icon.png" alt="twitter">
+
+  <img src="/imagens/instagram icon icon.png" alt="instagram">
+
+  <p>O que você achou ? Siga @portalnews no Instagram para ver mais. Deixe o seu comentário
+    <a href="">clicando aqui</a>
+  </p>
+
+  <p>Sugestão de pauta ? Fale conosco <img src="/imagens/whatsapp icon icon.png" alt="whatts"><a href="+55219999999"></a>
+  </p>
+
+  <span>Direitos reservados Portal News S.A </span>
+</footer>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CSS 
+
+
+
+body{
+  margin:0px
+}
+
+
+ul,li{
+  list-style: none;
+  padding:0;
+  color: white;
+}
+
+nav{
+  background-color:rgb(227, 17, 17);
+  padding:0px 20px  ;
+  justify-content: space-between;
+  align-items: center;
+
+}
+
+
+
+
+h1{
+  color:white;
+  font:Times;
+  align-items:left;
+}
+
+img{
+
+  align-items: left;
+}
+p{
+font: 15px ;
+  
+}
+nav,ul{
+
+  display: flex;
+  flex-direction: row;
+
+}
+li {
+  padding: 0 20px;
+}
+h1{
+  margin: 0;
+  padding: 10px;
+}
+
+button{
+  background:transparent ;
+  border: none;
+  color: white;
+  font: 26px;
+  
+}
+
+cursor{
+  opacity: 0.8;
+  background-color: rgba(255,255, 255, 0.2);
+  
+}
+
+
+span::before{
+
+  position: relative;
+
+}
+
+@media (max-width:700px){
+  nav,ul{flex-direction: column;
+align-self:unset;
+  }
+}
+ul{
+
+  text-align:center;
+}
+
+nav{
+  padding: 10px;
+  
+}
+
+.caixa{
+
+  display:grid;
+  grid-template-columns:auto auto ; 
+  gap:10 px;
+  background-color:beige;
+margin: 20px;
+
+}
+
+
+.item1{
+  
+  background-color:white;
+  text-align: center;
+
+}
+
+
+footer{
+  background-color:rgb(227, 17, 17);
+  padding:0px 20px  ;
+  justify-content: space-between;
+  align-items: center;
+}
+
+p{
+  text-align:left;
+}
+
+img{
+
+align-items: center;
+
+
+}
+
+span{
+
+  color: white solid ;
+  font-size: times 10px ;
+  text-align: center;
+}
+
+
+
+
+
+
+
+

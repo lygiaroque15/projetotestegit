@@ -1,0 +1,70 @@
+
+1 Briefing ok 
+ perguntas para construção e fazer em pdf 
+
+
+2 tags a serem utilizadas ok 
+
+Livro em pdf e front 
+
+
+
+3 desenho do figma do site 
+
+
+
+
+61C08D
+
+
+
+
+  background-color:#00008B;
+
+
+
+
+ <nav <div class="logo">
+    <h1>Portal News</h1>
+    </div>
+    <button>&#9776;</button>
+    <nav>
+
+      <ul>
+        <li>
+          <p>CAPA</p>
+        </li>
+        <li>
+          <p>BRASIL</p>
+        </li>
+
+        <li>
+          <p>MUNDO</p>
+        </li>
+        <li>
+          <p>AMÉRICA LATINA </p>
+        </li>
+
+        <li>
+          <p>ECONOMIA</p>
+        </li>
+
+        <li>
+          <p> MEIO AMBIENTE</p>
+        </li>
+        <li>
+          <p>MÍDIA</p>
+
+        </li>
+
+        <li>
+          <p>CULTURA </p>
+
+        </li>
+
+      </ul>
+
+      <input type="text" placeholder="         BUSCA" 
+
+
+
